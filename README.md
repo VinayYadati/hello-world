@@ -1,2 +1,4 @@
 # hello-world
-Sample repository
+Hey guys!
+
+How are you?
